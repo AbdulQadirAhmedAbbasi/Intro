@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AbdulQadirAhmedAbbasi
-- 👀 I’m interested in Computer Science & its related domains
-- 🌱 I’m currently learning Advanced Software Engineering in Erasmus Mundus Programe (Software Engineers 4 Green Deal)
-- 💞️ I’m looking to collaborate on interesting projects targeted for the well-being of people & society 
+- 👀 I’m interested in Computer Science, Software Engineering & Sustainbility
+- 🌱 I’m currently doing Masters in Advanced Software Engineering & Sustainability in Erasmus Mundus Programe (Software Engineers 4 Green Deal)
+- 💞️ I’m open to collaborate on projects of mutual interests 
 - 📫 How to reach me (ehmadabbasi@gmail.com / +923134238087)
 
 <!---
